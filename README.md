@@ -28,6 +28,8 @@ This project demonstrates how to:
 - **AWS EC2**
 - **IAM (for permissions)**
 
+<img width="1047" height="736" alt="image" src="https://github.com/user-attachments/assets/2e4aa441-b555-495c-9e7e-2aed8d55c9e9" />
+
 ---
 
 
